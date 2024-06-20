@@ -18,7 +18,7 @@ https://valeriovaglini.github.io/GIM/Esercizio_1B/Esercizio_1B.html
 
 ### Esercizio 1C
 
-https://valeriovaglini.github.io/GIM/Esercizio_1C/Esercizio_1C.html
+https://valeriovaglini.github.io/GIM/Esercizio_1C/Esercizio_1C
 
 ### Esercizio 2
 
